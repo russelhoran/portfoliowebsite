@@ -3,7 +3,7 @@ import Slider from 'react-infinite-logo-slider'
 const LogoSlider = () => {
     return (
         <>
-    <div className="mt-24 px-4 md:px-12 lg:px-32 text-white" id="Contact Me">
+    <div className="mt-24 px-4 md:px-12 lg:px-32 text-white" id="LogoSlider">
       <h2 className="text-3xl md:text-4xl font-extrabold mb-8 border-b border-gray-700 pb-2">
        My Programming Stack
       </h2>
