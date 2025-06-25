@@ -1,6 +1,6 @@
 import React from 'react'
 
-const navItems = ['Home', 'About Me', 'Education', 'Projects', 'Career', 'Contact Me']
+const navItems = ['Home', 'About Me', 'Education', 'Projects', 'Experience', 'Contact Me']
 
 const Navbar = () => {
   return (
